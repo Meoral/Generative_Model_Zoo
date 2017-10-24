@@ -5,6 +5,7 @@ Every week, new GAN,VAE papers are coming out and it's hard to keep track of the
 You can also check out the same data in a tabular format with functionality to filter by year or do a quick search by title [gan](https://github.com/tangzhenyu/Generative_Model_Zoo/blob/master/gans.tsv),[vae](https://github.com/tangzhenyu/Generative_Model_Zoo/blob/master/vae.tsv).
 
 <p align="center"><img width="50%" src="cumulative_gans.jpg" /></p>
+
 #### Generative Adversarial Nets (GAN)
 
 {% for gan in gans %}
