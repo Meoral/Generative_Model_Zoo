@@ -1,6 +1,5 @@
 # GAN-resources
 A list of papers and other resources on Generative Adversarial (Neural) Networks.
-This site is maintained by Holger Caesar.
 
 ## Contents
 - [Recommendations](#recommendations)
