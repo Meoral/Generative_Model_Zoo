@@ -1,0 +1,10 @@
+Year	Month	Abbr.	Title	Arxiv	Official_Code
+2013	12	VAE	Vanilla VAE	https://arxiv.org/abs/1312.6114	-
+2014	06	VAE	Conditional VAE	https://arxiv.org/abs/1406.5298	-
+2015	11	VAE	Denoising VAE	https://arxiv.org/abs/1511.06406	-
+2015	11	VAE	Adversarial Autoencoder	https://arxiv.org/abs/1511.05644	-
+2015	11	VAE	Generating Sentences From a Continuous Spaces	https://http://arxiv.org/pdf/1511.06349	-
+2015	11	VAE	Neural Variational Inference for Text Processing	https://arxiv.org/abs/1511.06038	-
+2016	05	VAE	A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues	https://arxiv.org/abs/1605.06069	-
+2016	09	VAE	Language as a Latent Variable: Discrete Generative Models for Sentence Compression	https://arxiv.org/pdf/1609.07317	-
+2017	01	VAE	Adversarial Variational Bayes	https://arxiv.org/abs/1701.04722	-
