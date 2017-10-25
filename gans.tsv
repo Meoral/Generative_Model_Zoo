@@ -23,6 +23,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2016	09	SeqGAN	SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient	https://arxiv.org/abs/1609.05473v5	https://github.com/LantaoYu/SeqGAN
 2016	09	VGAN	Generating Videos with Scene Dynamics	https://arxiv.org/abs/1609.02612	https://github.com/cvondrick/videogan
 2016	09	iGAN	Generative Visual Manipulation on the Natural Image Manifold	https://arxiv.org/abs/1609.03552v2	https://github.com/junyanz/iGAN
+2016  10  AC&GAN   Connecting Generative Adversarial Networks and Actor-Critic Methods  https://arxiv.org/pdf/1610.01945  -
 2016	10	3D-GAN	Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling	https://arxiv.org/abs/1610.07584	https://github.com/zck119/3dgan-release
 2016	10	AC-GAN	Conditional Image Synthesis With Auxiliary Classifier GANs	https://arxiv.org/abs/1610.09585	-
 2016	10	AffGAN	Amortised MAP Inference for Image Super-resolution	https://arxiv.org/abs/1610.04490	-
