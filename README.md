@@ -2,9 +2,7 @@
 
 Every week, new GAN,VAE papers are coming out and it's hard to keep track of them all,So, here's a list of what started as a fun activity compiling all named gans,vaes!
 
-You can also check out the same data in a tabular format with functionality to filter by year or do a quick search by title [gan](https://github.com/tangzhenyu/Generative_Model_Zoo/blob/master/gans.tsv),[vae](https://github.com/tangzhenyu/Generative_Model_Zoo/blob/master/vae.tsv).
 
-<p align="center"><img width="50%" src="cumulative_gans.jpg" /></p>
 
 ## Generative Adversarial Nets (GAN)
 
@@ -12,6 +10,7 @@ You can also check out the same data in a tabular format with functionality to f
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 
 #### Papers
+* Spectral Normalization GAN - [SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS](https://openreview.net/pdf?id=B1QRgziT-)
 * 3D-GAN - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584) ([github](https://github.com/zck119/3dgan-release))
 * 3D-IWGAN - [Improved Adversarial Systems for 3D Object Generation and Reconstruction](https://arxiv.org/abs/1707.09557) ([github](https://github.com/EdwardSmith1884/3D-IWGAN))
 * 3D-RecGAN - [3D Object Reconstruction from a Single Depth View with Adversarial Learning](https://arxiv.org/abs/1708.07969) ([github](https://github.com/Yang7879/3D-RecGAN))
